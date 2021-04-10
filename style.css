@@ -29,6 +29,7 @@ section {
 footer {
 	margin-top: 30px;
 	color: #444141;
+	display : none ; 
 }
 
 .header h1 {
